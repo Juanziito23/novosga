@@ -1,6 +1,6 @@
 # Novo SGA
 
-Support queue management system.
+Support queue management system. Versão atual 2.0.10 sendo a release.
 
 
 ## Installation
